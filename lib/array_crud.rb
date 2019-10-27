@@ -24,10 +24,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  ya_ya="ya"
-  ya_ya = remove_element_from_start_of_array.shift
-  p remove_element_from_start_of_array
-  p ya_ya
+ 
 end
 
 def retrieve_element_from_index(array, index_number)
