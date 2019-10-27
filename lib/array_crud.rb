@@ -20,7 +20,6 @@ def remove_element_from_end_of_array(array)
   ya_ya="ya"
   ya_ya = remove_element_from_end_of_array.pop
   p remove_element_from_end_of_array
-  p ya_ya
 end
 
 def remove_element_from_start_of_array(array)
