@@ -12,18 +12,17 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  add_element_to_start_of_array.unshift("")
-  p add_element_to_start_of_array
+  add_element_to_start_of_array.unshift("la")
+
 end
 
 def remove_element_from_end_of_array(array)
   ya_ya="ya"
   ya_ya = remove_element_from_end_of_array.pop
-  p remove_element_from_end_of_array
 end
 
 def remove_element_from_start_of_array(array)
- 
+ lil_bub=remove_element_from_start_of_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
